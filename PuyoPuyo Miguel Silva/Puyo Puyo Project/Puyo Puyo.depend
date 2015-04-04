@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1372558059 source:c:\documents and settings\virtualmike\mis documentos\puyo puyo\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"PuyoPuyo.h"
+
+1341010376 c:\archivos de programa\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1341010370 c:\archivos de programa\codeblocks\mingw\include\_mingw.h
+
+1372483456 c:\documents and settings\virtualmike\mis documentos\mklib\mklib\include\mk_application.h
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<iostream>
+	"MK_Background.h"
+	"MK_Sprite.h"
+	"MK_Text.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_getenv.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_timer.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_joystick.h"
+	"SDL_events.h"
+	"SDL_video.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_main.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_types.h
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\begin_code.h
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\close_code.h
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_getenv.h
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_error.h
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_rwops.h
+	<stdio.h>
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1341010376 c:\archivos de programa\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341010380 c:\archivos de programa\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_timer.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_audio.h
+	<stdio.h>
+	"SDL_main.h"
+	"SDL_types.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_byteorder.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_byteorder.h
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_cdrom.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_joystick.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_events.h
+	"SDL_types.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_active.h
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_keyboard.h
+	"SDL_types.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_keysym.h
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_mouse.h
+	"SDL_types.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_video.h
+	<stdio.h>
+	"SDL_types.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_mutex.h
+	"SDL_main.h"
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_quit.h
+
+1103108124 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_version.h
+	"SDL_types.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372387213 c:\documents and settings\virtualmike\mis documentos\mklib\mklib\include\mk_background.h
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<iostream>
+	"MK_Graphics.h"
+
+1103180161 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1372386570 c:\documents and settings\virtualmike\mis documentos\mklib\mklib\include\mk_graphics.h
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<cmath>
+
+1372621273 source:c:\documents and settings\virtualmike\mis documentos\puyo puyo\src\puyopuyo.cpp
+	"PuyoPuyo.h"
+
+1372621273 c:\documents and settings\virtualmike\mis documentos\puyo puyo\include\puyopuyo.h
+	<MK_Application.h>
+	<stdio.h>
+	<time.h>
+	<sstream>
+	<iomanip>
+	"Block.h"
+
+1372550486 c:\documents and settings\virtualmike\mis documentos\mklib\mklib\include\mk_sprite.h
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<cmath>
+	<iostream>
+	"MK_Graphics.h"
+
+1372547288 c:\documents and settings\virtualmike\mis documentos\mklib\mklib\include\mk_text.h
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+
+1325818393 c:\archivos de programa\codeblocks\mingw\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1341010374 c:\archivos de programa\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1372620346 source:c:\documents and settings\virtualmike\mis documentos\puyo puyo\src\block.cpp
+	"Block.h"
+
+1372551094 c:\documents and settings\virtualmike\mis documentos\puyo puyo\include\block.h
+	<MK_Application.h>
+
+1341010376 c:\archivos de programa\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+

@@ -1,0 +1,1860 @@
+TSDLExample
+v7
+r0
+t369025183.271581
+cCheck dependencies
+cProcessInfoPlistFile /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-djdheymnbzyevbfrjdndgyodjlgo/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fhzcmkmuwmmnoufojbxuwhyoazwu/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bzkbcfcacgyjybckiohlruoqwrnh/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+cProcessPCH++ /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
+cProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-arikrpnudwqoelewzmyogkuexbpb/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal i386 c com.apple.compilers.gcc.4_0
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLMain.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/main.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MikeLibrary.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Sprites.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Backgrounds.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Graphics.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Video.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLMain.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/main.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MikeLibrary.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c normal i386 c com.apple.compilers.gcc.4_0
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Sprites.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Backgrounds.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Graphics.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Video.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cLd /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLExample normal i386
+cLd /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLExample normal x86_64
+cCreateUniversalBinary /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/MacOS/SDLExample normal "x86_64 i386"
+cPBXCp build/Debug/SDLExample.app/Contents/Frameworks/SDL.framework /Library/Frameworks/SDL.framework
+cTouch /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app
+
+N/Developer/SDKs/MacOSX10.4u.sdk
+c000000004A1199E200000000000000EE
+t1242667490
+s238
+
+N/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers/SDL.h
+c000000004ADD32BD0000000000000CA1
+t1256010429
+s3233
+
+N/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers/SDL_image.h
+c000000004AFFCE77000000000000149D
+t1258278519
+s5277
+
+N/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/SDL_image
+c000000004AFFCE77000000000001A548
+t1258278519
+s107848
+
+N/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers/SDL_ttf.h
+c000000004ADC202E000000000000293A
+t1255940142
+s10554
+
+N/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/SDL_ttf
+c000000004ADC202E0000000000014F98
+t1255940142
+s85912
+
+N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c00000000445BD33F0000000000025159
+t1146868543
+s151897
+
+N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c00000000445BD33F0000000000003F83
+t1146868543
+s16259
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/AvailabilityMacros.h
+c000000004A1199E2000000000000506E
+t1242667490
+s20590
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/alloca.h
+c00000000463BAA5A0000000000000588
+t1178315354
+s1416
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/ctype.h
+c00000000463BAA5B0000000000002627
+t1178315355
+s9767
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/dirent.h
+c00000000463BAA5A0000000000001397
+t1178315354
+s5015
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/iconv.h
+c00000000462863A00000000000001298
+t1177052064
+s4760
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/inttypes.h
+c00000000463BAA5A0000000000002481
+t1178315354
+s9345
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/math.h
+c00000000462E7AF500000000000004B7
+t1177451253
+s1207
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/memory.h
+c00000000463BAA5A0000000000000B38
+t1178315354
+s2872
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/stdio.h
+c00000000463BAA5A0000000000003B7F
+t1178315354
+s15231
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/stdlib.h
+c00000000463BAA5A0000000000002647
+t1178315354
+s9799
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/string.h
+c00000000463BAA5A00000000000014D3
+t1178315354
+s5331
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/strings.h
+c00000000463BAA5A0000000000000D40
+t1178315354
+s3392
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/sys/param.h
+c0000000046F2351400000000000025D9
+t1190278420
+s9689
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/sys/types.h
+c0000000046F235160000000000002641
+t1190278422
+s9793
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/unistd.h
+c00000000463BAA5A0000000000004EED
+t1178315354
+s20205
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/emmintrin.h
+c000000004CC3D349000000000000A61B
+t1287902025
+s42523
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stdarg.h
+c000000004CC3D34900000000000010D9
+t1287902025
+s4313
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h
+c000000004CC3D3490000000000003193
+t1287902025
+s12691
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stdint.h
+c000000004CC3D3490000000000001BE4
+t1287902025
+s7140
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/SDL_image
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_ttf.framework/SDL_ttf
+c00000000000000000000000000000000
+t2
+s0
+
+N/Library/Frameworks/SDL.framework
+c000000004F4D741900000000000000EE
+t1330476057
+s238
+
+N/Library/Frameworks/SDL.framework/SDL
+c000000004ADD32BD0000000000156068
+t1256010429
+s1400936
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp
+c000000004F63DE6F00000000000179EE
+t1331945071
+s96750
+i<stdio.h>
+i<stdarg.h>
+i<unistd.h>
+i<dirent.h>
+i"config.h"
+i"sdl-widgets.h"
+i"sw-pixmaps.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c
+c000000004EDB1A790000000000029495
+t1322982009
+s169109
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i"SDL_gfxPrimitives.h"
+i"SDL_rotozoom.h"
+i"SDL_gfxPrimitives_font.h"
+i<emmintrin.h>
+i<armintr.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.h
+c000000004EDB1A790000000000002AEA
+t1322982009
+s10986
+i<math.h>
+i"SDL.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c
+c000000004EDB1A79000000000000A5A1
+t1322982009
+s42401
+i<windows.h>
+i<stdlib.h>
+i<string.h>
+i"SDL_rotozoom.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_gfxPrimitives.c
+c000000004EDB1A790000000000029495
+t1322982009
+s169109
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i"SDL_gfxPrimitives.h"
+i"SDL_rotozoom.h"
+i"SDL_gfxPrimitives_font.h"
+i<emmintrin.h>
+i<armintr.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.h
+c000000004EDB1A790000000000000BA8
+t1322982009
+s2984
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/English.lproj/InfoPlist.strings
+c000000004F4D75A10000000000000212
+t1330476449
+s530
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp
+c000000004FAAE2930000000000001271
+t1336599187
+s4721
+i"MK_Backgrounds.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.h
+c000000004FA3454E0000000000000449
+t1336100174
+s1097
+i<SDL.h>
+i<SDL_image.h>
+i<SDL_TTF.h>
+i"MK_Graphics.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp
+c000000004FC5665E0000000000001986
+t1338336862
+s6534
+i"MK_Graphics.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.h
+c000000004FAAE74400000000000003C0
+t1336600388
+s960
+i<SDL.h>
+i<SDL_image.h>
+i<SDL_TTF.h>
+i<stdio.h>
+i<math.h>
+i<iostream>
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp
+c000000004F90D7BF0000000000000EDB
+t1334892479
+s3803
+i"MK_Sprites.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.h
+c000000004F90D7BF00000000000002FA
+t1334892479
+s762
+i<SDL.h>
+i<SDL_image.h>
+i<SDL_TTF.h>
+i"MK_Graphics.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp
+c000000004F90E52200000000000007C4
+t1334895906
+s1988
+i"MK_Video.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.h
+c000000004F90E2F20000000000000166
+t1334895346
+s358
+i<SDL.h>
+i<stdio.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c
+c000000004F555E33000000000000219D
+t1330994739
+s8605
+i"MikeLibrary.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp
+c000000004F90E15C00000000000011C5
+t1334894940
+s4549
+i"MikeLibrary.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.h
+c000000004F90E2A50000000000000309
+t1334895269
+s777
+i<SDL.h>
+i<SDL_image.h>
+i<SDL_TTF.h>
+i<stdio.h>
+i<math.h>
+i<iostream>
+i<fstream>
+i<string>
+i"SDL_rotozoom.h"
+i"MK_Sprites.h"
+i"MK_Backgrounds.h"
+i"MK_Graphics.h"
+i"MK_Video.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch
+c000000004F4D75A100000000000000AF
+t1330476449
+s175
+i"SDL.h"
+i<Cocoa/Cocoa.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.h
+c000000004F541E510000000000000176
+t1330912849
+s374
+i<Cocoa/Cocoa.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m
+c000000004F62C1D90000000000002C00
+t1331872217
+s11264
+i"SDL.h"
+i"SDLMain.h"
+i<sys/param.h>
+i<unistd.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c
+c000000004FEDF85B00000000000294AC
+t1340995675
+s169132
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i"SDL_gfxPrimitives.h"
+i"SDL_rotozoom.h"
+i"SDL_gfxPrimitives_font.h"
+i<emmintrin.h>
+i<armintr.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.h
+c000000004EDB1A790000000000002AEA
+t1322982009
+s10986
+i<math.h>
+i"SDL.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives_font.h
+c000000004C98457A000000000000DA5B
+t1285047674
+s55899
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c
+c000000004EDB1A79000000000000A5A1
+t1322982009
+s42401
+i<windows.h>
+i<stdlib.h>
+i<string.h>
+i"SDL_rotozoom.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.h
+c000000004EDB1A790000000000000BA8
+t1322982009
+s2984
+i<math.h>
+i"SDL.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app
+t1347332383
+s102
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/Frameworks/SDL.framework
+t1334894886
+s204
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/Info.plist
+t1334894871
+s1374
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/MacOS/SDLExample
+t1347332383
+s150792
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/PkgInfo
+t1334894871
+s8
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1334894871
+s530
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Backgrounds.o
+t1347330249
+s28432
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Graphics.o
+t1347330249
+s27252
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Sprites.o
+t1347330249
+s24932
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Video.o
+t1347330249
+s6412
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MikeLibrary.o
+t1347330248
+s28064
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLExample
+t1347332383
+s72968
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLExample.LinkFileList
+c000000004FEDF87700000000000003F5
+t1340995703
+s1013
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLMain.o
+t1347330247
+s39656
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_gfxPrimitives.o
+t1340994315
+s140292
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom-16640F7FEB7FAD34.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom-C3FBFD1AFC7F693C.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom.o
+t1347330248
+s41528
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/main.o
+t1347332382
+s23060
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/sdl-widgets.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Backgrounds.o
+t1347330246
+s59376
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Graphics.o
+t1347330246
+s58340
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Sprites.o
+t1347330246
+s56044
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Video.o
+t1347330246
+s6480
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MikeLibrary.o
+t1347330246
+s57952
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLExample
+t1347332383
+s71584
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLExample.LinkFileList
+c000000004FEDF8770000000000000405
+t1340995703
+s1029
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLMain.o
+t1347330245
+s42404
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_gfxPrimitives.o
+t1340994315
+s119484
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom-16640F7FEB7FAD34.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom-C3FBFD1AFC7F693C.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom.o
+t1347330246
+s36548
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/main.o
+t1347332382
+s54340
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/sdl-widgets.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/StaticAnalyzer/normal/i386/MikeLibrary.plist
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/StaticAnalyzer/normal/i386/SDLMain.plist
+t1330988390
+s6594
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/StaticAnalyzer/normal/i386/main.plist
+t1330988389
+s1702
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/StaticAnalyzer/normal/x86_64/MikeLibrary.plist
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/StaticAnalyzer/normal/x86_64/SDLMain.plist
+t1330988389
+s6594
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/StaticAnalyzer/normal/x86_64/main.plist
+t1330988389
+s1702
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c
+c000000004F557AEF0000000000000654
+t1331002095
+s1620
+i"MikeLibrary.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp
+c00000000504EA91D00000000000008AA
+t1347332381
+s2218
+i"MikeLibrary.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp
+c000000004FA260B20000000000017E4F
+t1336041650
+s97871
+i<stdio.h>
+i<stdarg.h>
+i<unistd.h>
+i<dirent.h>
+i"config.h"
+i"sdl-widgets.h"
+i"sw-pixmaps.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.h
+c000000004FA2607400000000000038ED
+t1336041588
+s14573
+i<SDL.h>
+i<SDL_gfxPrimitives.h>
+i<SDL_ttf.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/SDLExample/sw-pixmaps.h
+c000000004F01720C000000000000066F
+t1325494796
+s1647
+
+N/Users/miguelsilva/Desktop/SDL Libraries/SDL-widgets-2.0/config.h
+c000000004F63DE0E0000000000000073
+t1331944974
+s115
+
+N/Users/miguelsilva/Desktop/SDL Libraries/SDL-widgets-2.0/sdl-widgets.h
+c000000004F4E0E3800000000000037EE
+t1330515512
+s14318
+i<SDL.h>
+i<SDL_gfxPrimitives.h>
+i<SDL_ttf.h>
+
+N/Users/miguelsilva/Desktop/SDL Libraries/SDL-widgets-2.0/sw-pixmaps.h
+c000000004F01720C000000000000066F
+t1325494796
+s1647
+
+N/Users/miguelsilva/Desktop/SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.h
+c000000004EDB1A790000000000002AEA
+t1322982009
+s10986
+i<math.h>
+i"SDL.h"
+
+N/Users/miguelsilva/Desktop/SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives_font.h
+c000000004C98457A000000000000DA5B
+t1285047674
+s55899
+
+N/Users/miguelsilva/Desktop/SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.h
+c000000004EDB1A790000000000000BA8
+t1322982009
+s2984
+i<math.h>
+i"SDL.h"
+
+N/Users/miguelsilva/Desktop/SDL_gfx-2.0.23/SDL_gfxPrimitives.h
+c000000004EDB1A790000000000002AEA
+t1322982009
+s10986
+i<math.h>
+i"SDL.h"
+
+N/Users/miguelsilva/Desktop/SDL_gfx-2.0.23/SDL_gfxPrimitives_font.h
+c000000004C98457A000000000000DA5B
+t1285047674
+s55899
+
+N/Users/miguelsilva/Desktop/SDL_gfx-2.0.23/SDL_rotozoom.h
+c000000004EDB1A790000000000000BA8
+t1322982009
+s2984
+i<math.h>
+i"SDL.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL.h
+c000000004ADD32BD0000000000000CA1
+t1256010429
+s3233
+i"SDL_main.h"
+i"SDL_stdinc.h"
+i"SDL_audio.h"
+i"SDL_cdrom.h"
+i"SDL_cpuinfo.h"
+i"SDL_endian.h"
+i"SDL_error.h"
+i"SDL_events.h"
+i"SDL_loadso.h"
+i"SDL_mutex.h"
+i"SDL_rwops.h"
+i"SDL_thread.h"
+i"SDL_timer.h"
+i"SDL_video.h"
+i"SDL_version.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_active.h
+c000000004ADD32BD000000000000078D
+t1256010429
+s1933
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_audio.h
+c000000004ADD32BD0000000000002BCF
+t1256010429
+s11215
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_endian.h"
+i"SDL_mutex.h"
+i"SDL_thread.h"
+i"SDL_rwops.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_cdrom.h
+c000000004ADD32BD00000000000017A0
+t1256010429
+s6048
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_config.h
+c000000004ADD32BD00000000000005C2
+t1256010429
+s1474
+i"SDL_platform.h"
+i"SDL_config_dreamcast.h"
+i"SDL_config_macos.h"
+i"SDL_config_macosx.h"
+i"SDL_config_symbian.h"
+i"SDL_config_win32.h"
+i"SDL_config_os2.h"
+i"SDL_config_minimal.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_config_dreamcast.h
+c000000004ADD32BD0000000000000AF3
+t1256010429
+s2803
+i"SDL_platform.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_config_macos.h
+c000000004ADD32BD0000000000000AF1
+t1256010429
+s2801
+i"SDL_platform.h"
+i<MacTypes.h>
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_config_macosx.h
+c000000004ADD32BD0000000000001061
+t1256010429
+s4193
+i"SDL_platform.h"
+i<AvailabilityMacros.h>
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_config_os2.h
+c000000004ADD32BD0000000000000E33
+t1256010429
+s3635
+i"SDL_platform.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_config_win32.h
+c000000004ADD32BD00000000000011DE
+t1256010429
+s4574
+i"SDL_platform.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_cpuinfo.h
+c000000004ADD32BD00000000000008AD
+t1256010429
+s2221
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_endian.h
+c000000004ADD32BD00000000000016F1
+t1256010429
+s5873
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_error.h
+c000000004ADD32BD0000000000000752
+t1256010429
+s1874
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_events.h
+c000000004ADD32BD00000000000032F1
+t1256010429
+s13041
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_active.h"
+i"SDL_keyboard.h"
+i"SDL_mouse.h"
+i"SDL_joystick.h"
+i"SDL_quit.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_joystick.h
+c000000004ADD32BD000000000000159C
+t1256010429
+s5532
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_keyboard.h
+c000000004ADD32BD0000000000001002
+t1256010429
+s4098
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_keysym.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_keysym.h
+c000000004ADD32BD0000000000001D44
+t1256010429
+s7492
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_loadso.h
+c000000004ADD32BD0000000000000AB3
+t1256010429
+s2739
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_main.h
+c000000004ADD32BD0000000000000B32
+t1256010429
+s2866
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_mouse.h
+c000000004ADD32BD0000000000001292
+t1256010429
+s4754
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_video.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_mutex.h
+c000000004ADD32BD00000000000016E4
+t1256010429
+s5860
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_opengl.h
+c000000004ADD32BD00000000000521A4
+t1256010429
+s336292
+i"SDL_config.h"
+i<windows.h>
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<gl.h>
+i<glu.h>
+i<GL/gl.h>
+i<GL/glu.h>
+i<windows.h>
+i<stddef.h>
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_platform.h
+c000000004ADD32BD0000000000000A94
+t1256010429
+s2708
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_quit.h
+c000000004ADD32BD00000000000007D9
+t1256010429
+s2009
+i"SDL_stdinc.h"
+i"SDL_error.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_rwops.h
+c000000004ADD32BD000000000000135E
+t1256010429
+s4958
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_stdinc.h
+c000000004ADD32BD0000000000004059
+t1256010429
+s16473
+i"SDL_config.h"
+i<sys/types.h>
+i<stdio.h>
+i<stdlib.h>
+i<stddef.h>
+i<stdarg.h>
+i<stdlib.h>
+i<malloc.h>
+i<stddef.h>
+i<stdarg.h>
+i<memory.h>
+i<string.h>
+i<strings.h>
+i<inttypes.h>
+i<stdint.h>
+i<ctype.h>
+i<iconv.h>
+i"begin_code.h"
+i<alloca.h>
+i<malloc.h>
+i<malloc.h>
+i<malloc.h>
+i<stdlib.h>
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_thread.h
+c000000004ADD32BD000000000000118E
+t1256010429
+s4494
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_mutex.h"
+i"begin_code.h"
+i<process.h>
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_timer.h
+c000000004ADD32BD00000000000011AF
+t1256010429
+s4527
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_version.h
+c000000004ADD32BD0000000000000A4D
+t1256010429
+s2637
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_video.h
+c000000004ADD32BD0000000000009482
+t1256010429
+s38018
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_rwops.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/begin_code.h
+c000000004ADD32BD0000000000001408
+t1256010429
+s5128
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/close_code.h
+c000000004ADD32BD00000000000005CA
+t1256010429
+s1482
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-aofyzpnxdqpxvofevvgrclsevxwh/SDLExample_Prefix.pch.gch
+t1330476454
+s2281320
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-arikrpnudwqoelewzmyogkuexbpb/SDLExample_Prefix.pch.gch
+t1347330243
+s2281320
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch.gch
+t1347330235
+s4729168
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bzkbcfcacgyjybckiohlruoqwrnh/SDLExample_Prefix.pch.gch
+t1347330242
+s30511584
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-ceipmiyuayabxueuvjkjoxsonvdh/SDLExample_Prefix.pch.pth
+t1330988389
+s8953500
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-cnavbionjnqopkfkqjrrhdxyxvko/SDLExample_Prefix.pch.pth
+t1330988389
+s461188
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-ddwyobxiiumisaboirjkpvfvqrhq/SDLExample_Prefix.pch.pth
+t1330988383
+s511052
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-djdheymnbzyevbfrjdndgyodjlgo/SDLExample_Prefix.pch.gch
+t1347330244
+s55052912
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-earvyiltllgfbjdnsafpxdiercon/SDLExample_Prefix.pch.gch
+t1330476451
+s4315568
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-etqbrgqtvddfipgjfatwrqnyqxnl/SDLExample_Prefix.pch.gch
+t1330476455
+s55052912
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fhzcmkmuwmmnoufojbxuwhyoazwu/SDLExample_Prefix.pch.gch
+t1347330235
+s4319664
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fzbigoabbvuqgkhjfldgvaaaqoaq/SDLExample_Prefix.pch.pth
+t1330988389
+s11116584
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-gnmkarxxotwsulfsicbrfoiagrzm/SDLExample_Prefix.pch.gch
+t1330476454
+s30511584
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch.gch
+t1347330243
+s2600808
+
+NInfo.plist
+c000000004F542609000000000000040B
+t1330914825
+s1035
+
+CAnalyze /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c
+s352681189.990861
+e352681190.030751
+r1
+xAnalyze
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c:273:1: error: unknown type name 'MK_Background'; did you mean 'ML_Background'?
+o MK_Background MK_CreateBackground(Uint8 FSizeX,Uint8 FSizeY,Uint8 SizeX,Uint8 SizeY)
+o ^~~~~~~~~~~~~
+o ML_Background
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c:10:
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.h:39:2: note: 'ML_Background' declared here
+o }ML_Background;
+o  ^
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c:288:9:{288:9-288:15}: error: returning 'MK_Sprite' from a function with incompatible result type 'ML_Background'
+o         return Sprite;
+o                ^~~~~~
+o2 errors generated.
+lSLF07#2@69"Analyze /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c352681189#352681190#0(712"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c:273:1: error: unknown type name 'MK_Background'; did you mean 'ML_Background'? MK_Background MK_CreateBackground(Uint8 FSizeX,Uint8 FSizeY,Uint8 SizeX,Uint8 SizeY) ^~~~~~~~~~~~~ ML_BackgroundIn file included from /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c:10:/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.h:39:2: note: 'ML_Background' declared here }ML_Background;  ^/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c:288:9:{288:9-288:15}: error: returning 'MK_Sprite' from a function with incompatible result type 'ML_Background'         return Sprite;                ^~~~~~2 errors generated.1(25@46"Analyzer skipped this file due to parse errors352681190#18446744073709551615#0#1(25@64"unknown type name 'MK_Background'; did you mean 'ML_Background'?352681190#18446744073709551615#0#0(6@61"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c352681178#273#0#273#0#0"0(6@61"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c352681178#0#0#0#0#0"0(0#0#61"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c8622807872#1704"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-cnavbionjnqopkfkqjrrhdxyxvko/SDLExample_Prefix.pch --analyze /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/StaticAnalyzer/normal/i386/MikeLibrary.plist0#
+
+CAnalyze /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m
+s352681189.837443
+e352681190.045358
+r1
+xAnalyze
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m:219:24: warning: Potential leak of an object allocated on line 219
+o     [NSApp setMainMenu:[[NSMenu alloc] init]];
+o                        ^
+o1 warning generated.
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m:219:24: warning: Potential leak of an object allocated on line 219
+o     [NSApp setMainMenu:[[NSMenu alloc] init]];
+o                        ^
+o1 warning generated.
+lSLF07#2@65"Analyze /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352681189#352681190#0(220"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m:219:24: warning: Potential leak of an object allocated on line 219     [NSApp setMainMenu:[[NSMenu alloc] init]];                        ^1 warning generated.1(0@49"Potential leak of an object allocated on line 219352681190#18446744073709551615#0#6(17@0"352681190#18446744073709551615#0#0(6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#0#0#0#0#0"0(6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#0#0#0#0#1(3@6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#201#5#201#5#6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#211#9#211#9#17@0"352681190#18446744073709551615#0#0(6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#0#0#0#0#0"0(6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#0#0#0#0#1(3@6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#211#9#211#9#6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#219#5#219#5#17@0"352681190#18446744073709551615#0#0(6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#0#0#0#0#0"0(6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#0#0#0#0#1(3@6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#219#5#219#5#6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#219#24#219#44#21@78"Method returns an Objective-C object with a +1 retain count (owning reference)352681190#18446744073709551615#0#0(6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#219#24#0#0#0"1(6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#219#24#219#44#78"Method returns an Objective-C object with a +1 retain count (owning reference)17@0"352681190#18446744073709551615#0#0(6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#0#0#0#0#0"0(6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#0#0#0#0#1(3@6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#219#24#219#44#6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#220#5#220#22#21@120"Object allocated on line 219 is not referenced later in this execution path and has a retain count of +1 (object leaked)352681190#18446744073709551615#0#0(6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#220#5#0#0#0"1(6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#220#5#220#22#120"Object allocated on line 219 is not referenced later in this execution path and has a retain count of +1 (object leaked)6@57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m352169249#220#5#0#0#36"Memory (Core Foundation/Objective-C)0(4"Leak0#0#57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m8625453120#1706"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-ceipmiyuayabxueuvjkjoxsonvdh/SDLExample_Prefix.pch --analyze /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/StaticAnalyzer/normal/i386/SDLMain.plist0#
+
+CAnalyze /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c
+s352681189.958110
+e352681189.990771
+r1
+xAnalyze
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c:22:15:{22:26-22:73}: warning: Value stored to 'fontsurf' during its initialization is never read
+o         SDL_Surface *fontsurf = TTF_RenderText_Solid(font,"Hola \n jeje",color);
+o                      ^          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o1 warning generated.
+lSLF07#2@62"Analyze /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c352681189#352681189#0(336"/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c:22:15:{22:26-22:73}: warning: Value stored to 'fontsurf' during its initialization is never read         SDL_Surface *fontsurf = TTF_RenderText_Solid(font,"Hola \n jeje",color);                      ^          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~1 warning generated.1(0@66"Value stored to 'fontsurf' during its initialization is never read352681189#18446744073709551615#0#1(21@66"Value stored to 'fontsurf' during its initialization is never read352681189#18446744073709551615#0#0(6@54"/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c352680765#22#15#0#0#0"1(6@54"/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c352680765#22#26#22#72#66"Value stored to 'fontsurf' during its initialization is never read6@54"/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c352680765#22#15#0#0#10"Dead store0(19"Dead initialization0#0#54"/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c8625446592#1690"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-cnavbionjnqopkfkqjrrhdxyxvko/SDLExample_Prefix.pch --analyze /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies369025181#369025181#0(0"0(0#1#0"8620682176#0"0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Backgrounds.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s369023048.905233
+e369023049.197708
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Backgrounds.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@74"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp369023048#369023049#0(0"0(0#0#66"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp8603560480#1688"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Backgrounds.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Graphics.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s369023049.048459
+e369023049.351559
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Graphics.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@71"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp369023049#369023049#0(0"0(0#0#63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp8603190112#1682"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Graphics.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Sprites.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s369023048.746596
+e369023049.048362
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Sprites.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@70"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp369023048#369023049#0(0"0(0#0#62"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp8607218240#1680"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Sprites.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Video.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s369023049.197807
+e369023049.234302
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Video.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@68"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp369023049#369023049#0(0"0(0#0#60"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp8607740928#1676"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MK_Video.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MikeLibrary.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c normal i386 c com.apple.compilers.gcc.4_0
+s352694777.970836
+e352694778.048253
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MikeLibrary.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@69"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c352694777#352694778#0(0"0(0#0#61"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c8612873376#1650"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-arikrpnudwqoelewzmyogkuexbpb/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MikeLibrary.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MikeLibrary.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s369023048.342556
+e369023048.746500
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MikeLibrary.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@71"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp369023048#369023048#0(0"0(0#0#63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp8603063392#1682"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/MikeLibrary.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLMain.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s369023046.778157
+e369023047.074471
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLMain.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@65"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m369023046#369023047#0(0"0(0#0#57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m8608054112#1652"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bzkbcfcacgyjybckiohlruoqwrnh/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLMain.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_gfxPrimitives.o "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c" normal i386 c com.apple.compilers.gcc.4_0
+s353636912.626016
+e353636913.509091
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_gfxPrimitives.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c: In function '_murphyIteration':
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 2 of 'polygonColor' differ in signedness
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 3 of 'polygonColor' differ in signedness
+lSLF07#2@110"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c353636912#353636913#0(526"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c: In function '_murphyIteration':/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 2 of 'polygonColor' differ in signedness/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 3 of 'polygonColor' differ in signedness2(22@76"Pointer targets in passing argument 2 of 'polygonColor' differ in signedness353636913#136#195#0(6@102"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c344674809#6541#0#6541#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@76"Pointer targets in passing argument 3 of 'polygonColor' differ in signedness353636913#331#195#0(6@102"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c344674809#6541#0#6541#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#102"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c8598363744#1699"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-arikrpnudwqoelewzmyogkuexbpb/SDLExample_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c" -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_gfxPrimitives.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_gfxPrimitives.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_gfxPrimitives.c normal i386 c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_gfxPrimitives.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c normal i386 c com.apple.compilers.gcc.4_0
+s362687115.016096
+e362687115.550789
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_gfxPrimitives.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c: In function '_murphyIteration':
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 2 of 'polygonColor' differ in signedness
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 3 of 'polygonColor' differ in signedness
+lSLF07#2@75"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c362687115#362687115#0(421"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c: In function '_murphyIteration':/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 2 of 'polygonColor' differ in signedness/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 3 of 'polygonColor' differ in signedness2(22@76"Pointer targets in passing argument 2 of 'polygonColor' differ in signedness362687115#101#160#0(6@67"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c344674809#6541#0#6541#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@76"Pointer targets in passing argument 3 of 'polygonColor' differ in signedness362687115#261#160#0(6@67"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c344674809#6541#0#6541#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#67"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c8608376992#1662"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-arikrpnudwqoelewzmyogkuexbpb/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_gfxPrimitives.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom-16640F7FEB7FAD34.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c normal i386 c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom-C3FBFD1AFC7F693C.o "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c" normal i386 c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom.o "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c" normal i386 c com.apple.compilers.gcc.4_0
+s353636913.428200
+e353636913.575764
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@105"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c353636913#353636913#0(0"0(0#0#97"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c8610530080#1689"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-arikrpnudwqoelewzmyogkuexbpb/SDLExample_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c" -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c normal i386 c com.apple.compilers.gcc.4_0
+s353565272.052272
+e353565272.218006
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@91"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c353565272#353565272#0(0"0(0#0#83"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c8615539808#1673"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-arikrpnudwqoelewzmyogkuexbpb/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c normal i386 c com.apple.compilers.gcc.4_0
+s369023048.732024
+e369023048.905131
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@70"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c369023048#369023048#0(0"0(0#0#62"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c8607273920#1652"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-arikrpnudwqoelewzmyogkuexbpb/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDL_rotozoom.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/main.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c normal i386 c com.apple.compilers.gcc.4_0
+s352694895.951293
+e352694896.000961
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/main.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@62"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c352694895#352694896#0(0"0(0#0#54"/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c8619769088#1636"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-arikrpnudwqoelewzmyogkuexbpb/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/main.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s369025182.054804
+e369025182.618679
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/main.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@64"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp369025182#369025182#0(0"0(0#0#56"/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp8620695680#1668"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/sdl-widgets.o "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+s353637871.667731
+e353637872.031228
+r0
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/sdl-widgets.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:152:10: warning: multi-character character constant
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:1239:31: warning: multi-character character constant
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:1754:62: warning: multi-character character constant
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp: In function 'int send_ticks(void*)':
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:1398: error: too few arguments to function 'void send_uev(void (*)(int), int)'
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3323: error: at this point in file
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3323: error: expected `;' before '{' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3326: error: expected primary-expression before ',' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3326: error: expected `;' before ')' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: error: expected `}' before 'else'
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: error: expected `}' before 'else'
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp: At global scope:
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: error: expected unqualified-id before 'else'
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3329: error: expected constructor, destructor, or type conversion before '(' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3330: error: expected declaration before '}' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp: In function 'int send_ticks(void*)':
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: warning: control reaches end of non-void function
+lSLF07#2@107"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#353637872#0(2531"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:152:10: warning: multi-character character constant/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:1239:31: warning: multi-character character constant/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:1754:62: warning: multi-character character constant/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp: In function 'int send_ticks(void*)':/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:1398: error: too few arguments to function 'void send_uev(void (*)(int), int)'/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3323: error: at this point in file/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3323: error: expected `;' before '{' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3326: error: expected primary-expression before ',' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3326: error: expected `;' before ')' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: error: expected `}' before 'else'/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: error: expected `}' before 'else'/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp: At global scope:/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: error: expected unqualified-id before 'else'/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3329: error: expected constructor, destructor, or type conversion before '(' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3330: error: expected declaration before '}' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp: In function 'int send_ticks(void*)':/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: warning: control reaches end of non-void function15(22@34"Multi-character character constant353637871#0#152#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#152#0#152#0#0"0(22@34"Multi-character character constant353637871#152#153#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#1239#0#1239#0#0"0(22@34"Multi-character character constant353637871#305#153#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#1754#0#1754#0#0"0(4@65"Too few arguments to function 'void send_uev(void (*)(int), int)'353637871#596#179#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#1398#0#1398#0#33"too few arguments to function '*'0(4@21"At this point in file353637871#775#135#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3323#0#3323#0#0"0(4@29"Expected `;' before '{' token353637871#910#143#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3323#0#3323#0#19"expected * before *0(4@44"Expected primary-expression before ',' token353637871#1053#158#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3326#0#3326#0#19"expected * before *0(4@29"Expected `;' before ')' token353637871#1211#143#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3326#0#3326#0#19"expected * before *0(4@26"Expected `}' before 'else'353637871#1354#140#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3327#0#3327#0#19"expected * before *0(4@26"Expected `}' before 'else'353637871#1494#140#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3327#0#3327#0#19"expected * before *0(23@16"At global scope:353637871#1634#118#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#0#0#0#0#0"0(4@37"Expected unqualified-id before 'else'353637871#1752#151#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3327#0#3327#0#19"expected * before *0(4@69"Expected constructor, destructor, or type conversion before '(' token353637871#1903#183#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3329#0#3329#0#19"expected * before *0(4@37"Expected declaration before '}' token353637871#2086#151#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3330#0#3330#0#19"expected * before *0(22@40"Control reaches end of non-void function353637871#2375#156#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3327#0#3327#0#40"control reaches end of non-void function0(0#0#99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp8611475776#1720"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp" -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/sdl-widgets.o1#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/sdl-widgets.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s362687115.308520
+e362687115.615778
+r0
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/sdl-widgets.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:20:20: error: config.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:152:10: warning: multi-character character constant
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:1238:31: warning: multi-character character constant
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:1753:62: warning: multi-character character constant
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:44: error: 'FONTPATH' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp: In constructor 'TopWin::TopWin(const char*, Rect, Uint32, Uint32, void (*)(), void (*)())':
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:729: error: 'FONTPATH' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:731: error: 'FONTPATH' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:733: error: 'FONTPATH_MONO' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp: In function 'int send_ticks(void*)':
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:3328: error: expected primary-expression before '[' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:3328: error: expected primary-expression before ']' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:3328: error: expected primary-expression before 'int'
+lSLF07#2@71"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp362687115#362687115#0(1561"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:20:20: error: config.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:152:10: warning: multi-character character constant/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:1238:31: warning: multi-character character constant/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:1753:62: warning: multi-character character constant/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:44: error: 'FONTPATH' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp: In constructor 'TopWin::TopWin(const char*, Rect, Uint32, Uint32, void (*)(), void (*)())':/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:729: error: 'FONTPATH' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:731: error: 'FONTPATH' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:733: error: 'FONTPATH_MONO' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp: In function 'int send_ticks(void*)':/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:3328: error: expected primary-expression before '[' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:3328: error: expected primary-expression before ']' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:3328: error: expected primary-expression before 'int'11(4@35"Config.h: No such file or directory362687115#0#114#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#20#0#20#0#28"*: No such file or directory0(22@34"Multi-character character constant362687115#114#116#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#152#0#152#0#0"0(22@34"Multi-character character constant362687115#230#117#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#1238#0#1238#0#0"0(22@34"Multi-character character constant362687115#347#117#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#1753#0#1753#0#0"0(4@41"'FONTPATH' was not declared in this scope362687115#464#117#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#44#0#44#0#34"'*' was not declared in this scope0(4@41"'FONTPATH' was not declared in this scope362687115#738#118#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#729#0#729#0#34"'*' was not declared in this scope0(4@41"'FONTPATH' was not declared in this scope362687115#856#118#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#731#0#731#0#34"'*' was not declared in this scope0(4@46"'FONTPATH_MONO' was not declared in this scope362687115#974#123#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#733#0#733#0#34"'*' was not declared in this scope0(4@44"Expected primary-expression before '[' token362687115#1199#122#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#3328#0#3328#0#19"expected * before *0(4@44"Expected primary-expression before ']' token362687115#1321#122#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#3328#0#3328#0#19"expected * before *0(4@40"Expected primary-expression before 'int'362687115#1443#118#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#3328#0#3328#0#19"expected * before *0(0#0#63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp8607369344#1682"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/sdl-widgets.o1#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Backgrounds.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369023046.291690
+e369023046.707143
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Backgrounds.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp369023046#369023046#0(0"0(0#0#66"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp8606948416#1568"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Backgrounds.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Backgrounds.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Graphics.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369023046.481789
+e369023046.918089
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Graphics.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp369023046#369023046#0(0"0(0#0#63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp8603491488#1562"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Graphics.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Graphics.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Sprites.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369023046.033232
+e369023046.481686
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Sprites.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp369023046#369023046#0(0"0(0#0#62"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp8607704704#1560"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Sprites.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Sprites.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Video.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369023046.707243
+e369023046.777976
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Video.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp369023046#369023046#0(0"0(0#0#60"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp8606808096#1556"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/MK_Video.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MK_Video.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MikeLibrary.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c normal x86_64 c com.apple.compilers.gcc.4_2
+s352694777.868524
+e352694777.975770
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MikeLibrary.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c352694777#352694777#0(0"0(0#0#61"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c8601349280#1530"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fhzcmkmuwmmnoufojbxuwhyoazwu/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.c -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MikeLibrary.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MikeLibrary.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369023045.237184
+e369023046.033155
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MikeLibrary.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp369023045#369023046#0(0"0(0#0#63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp8603168416#1562"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/MikeLibrary.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/MikeLibrary.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLMain.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s369023044.801837
+e369023045.237001
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLMain.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m369023044#369023045#0(0"0(0#0#57"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m8606794176#1532"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-djdheymnbzyevbfrjdndgyodjlgo/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLMain.m -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLMain.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_gfxPrimitives.o "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s353636911.198121
+e353636912.625911
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_gfxPrimitives.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c: In function '_murphyIteration':
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 2 of 'polygonColor' differ in signedness
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 3 of 'polygonColor' differ in signedness
+lSLF07#2@110"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c353636911#353636912#0(526"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c: In function '_murphyIteration':/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 2 of 'polygonColor' differ in signedness/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 3 of 'polygonColor' differ in signedness2(22@76"Pointer targets in passing argument 2 of 'polygonColor' differ in signedness353636912#136#195#0(6@102"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c344674809#6541#0#6541#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@76"Pointer targets in passing argument 3 of 'polygonColor' differ in signedness353636912#331#195#0(6@102"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c344674809#6541#0#6541#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#102"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c8602917536#1579"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fhzcmkmuwmmnoufojbxuwhyoazwu/SDLExample_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_gfxPrimitives.c" -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_gfxPrimitives.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_gfxPrimitives.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_gfxPrimitives.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_gfxPrimitives.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c normal x86_64 c com.apple.compilers.gcc.4_2
+s362687114.740814
+e362687115.308424
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_gfxPrimitives.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c: In function '_murphyIteration':
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 2 of 'polygonColor' differ in signedness
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 3 of 'polygonColor' differ in signedness
+lSLF07#2@75"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c362687114#362687115#0(421"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c: In function '_murphyIteration':/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 2 of 'polygonColor' differ in signedness/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c:6541: warning: pointer targets in passing argument 3 of 'polygonColor' differ in signedness2(22@76"Pointer targets in passing argument 2 of 'polygonColor' differ in signedness362687115#101#160#0(6@67"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c344674809#6541#0#6541#0#65"pointer targets in passing argument * of '*' differ in signedness0(22@76"Pointer targets in passing argument 3 of 'polygonColor' differ in signedness362687115#261#160#0(6@67"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c344674809#6541#0#6541#0#65"pointer targets in passing argument * of '*' differ in signedness0(0#0#67"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c8607603968#1542"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fhzcmkmuwmmnoufojbxuwhyoazwu/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_gfxPrimitives.c -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_gfxPrimitives.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom-16640F7FEB7FAD34.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom-C3FBFD1AFC7F693C.o "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom.o "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s353636912.431646
+e353636912.617726
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c353636912#353636912#0(0"0(0#0#97"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c8609729312#1569"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fhzcmkmuwmmnoufojbxuwhyoazwu/SDLExample_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL_gfx-2.0.23/SDL_rotozoom.c" -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c normal x86_64 c com.apple.compilers.gcc.4_2
+s353565272.050879
+e353565272.214033
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c353565272#353565272#0(0"0(0#0#83"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c8615481472#1553"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fhzcmkmuwmmnoufojbxuwhyoazwu/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL_gfx-2.0.23/SDL_rotozoom.c -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c normal x86_64 c com.apple.compilers.gcc.4_2
+s369023046.032171
+e369023046.291596
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c369023046#369023046#0(0"0(0#0#62"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c8607893312#1532"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fhzcmkmuwmmnoufojbxuwhyoazwu/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDL_rotozoom.c -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDL_rotozoom.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/main.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s352694895.869050
+e352694896.016676
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/main.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c352694895#352694896#0(0"0(0#0#54"/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c8618708896#1516"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fhzcmkmuwmmnoufojbxuwhyoazwu/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.c -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/main.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369025181.522005
+e369025182.640565
+r1
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/main.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp369025181#369025182#0(0"0(0#0#56"/Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp8620516864#1548"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/main.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/sdl-widgets.o "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s353637871.501970
+e353637871.926128
+r0
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/sdl-widgets.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:152:10: warning: multi-character character constant
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:1239:31: warning: multi-character character constant
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:1754:62: warning: multi-character character constant
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp: In function 'int send_ticks(void*)':
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:1398: error: too few arguments to function 'void send_uev(void (*)(int), int)'
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3323: error: at this point in file
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3323: error: expected `;' before '{' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3326: error: expected primary-expression before ',' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3326: error: expected `;' before ')' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: error: expected `}' before 'else'
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: error: expected `}' before 'else'
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp: At global scope:
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: error: expected unqualified-id before 'else'
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3329: error: expected constructor, destructor, or type conversion before '(' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3330: error: expected declaration before '}' token
+lSLF07#2@107"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#353637871#0(2237"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:152:10: warning: multi-character character constant/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:1239:31: warning: multi-character character constant/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:1754:62: warning: multi-character character constant/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp: In function 'int send_ticks(void*)':/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:1398: error: too few arguments to function 'void send_uev(void (*)(int), int)'/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3323: error: at this point in file/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3323: error: expected `;' before '{' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3326: error: expected primary-expression before ',' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3326: error: expected `;' before ')' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: error: expected `}' before 'else'/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: error: expected `}' before 'else'/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp: At global scope:/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3327: error: expected unqualified-id before 'else'/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3329: error: expected constructor, destructor, or type conversion before '(' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp:3330: error: expected declaration before '}' token14(22@34"Multi-character character constant353637871#0#152#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#152#0#152#0#0"0(22@34"Multi-character character constant353637871#152#153#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#1239#0#1239#0#0"0(22@34"Multi-character character constant353637871#305#153#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#1754#0#1754#0#0"0(4@65"Too few arguments to function 'void send_uev(void (*)(int), int)'353637871#596#179#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#1398#0#1398#0#33"too few arguments to function '*'0(4@21"At this point in file353637871#775#135#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3323#0#3323#0#0"0(4@29"Expected `;' before '{' token353637871#910#143#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3323#0#3323#0#19"expected * before *0(4@44"Expected primary-expression before ',' token353637871#1053#158#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3326#0#3326#0#19"expected * before *0(4@29"Expected `;' before ')' token353637871#1211#143#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3326#0#3326#0#19"expected * before *0(4@26"Expected `}' before 'else'353637871#1354#140#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3327#0#3327#0#19"expected * before *0(4@26"Expected `}' before 'else'353637871#1494#140#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3327#0#3327#0#19"expected * before *0(23@16"At global scope:353637871#1634#118#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#0#0#0#0#0"0(4@37"Expected unqualified-id before 'else'353637871#1752#151#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3327#0#3327#0#19"expected * before *0(4@69"Expected constructor, destructor, or type conversion before '(' token353637871#1903#183#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3329#0#3329#0#19"expected * before *0(4@37"Expected declaration before '}' token353637871#2086#151#0(6@99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp353637871#3330#0#3330#0#19"expected * before *0(0#0#99"/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp8611931840#1600"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/SDLExample/../../SDL Libraries/SDL-widgets-2.0/sdl-widgets.cpp" -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/sdl-widgets.o1#
+
+CCompileC build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/sdl-widgets.o /Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s362687114.742074
+e362687115.015228
+r0
+xCompileC
+xbuild/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/sdl-widgets.o
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:20:20: error: config.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:152:10: warning: multi-character character constant
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:1238:31: warning: multi-character character constant
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:1753:62: warning: multi-character character constant
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:44: error: 'FONTPATH' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp: In constructor 'TopWin::TopWin(const char*, Rect, Uint32, Uint32, void (*)(), void (*)())':
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:729: error: 'FONTPATH' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:731: error: 'FONTPATH' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:733: error: 'FONTPATH_MONO' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp: In function 'int send_ticks(void*)':
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:3328: error: expected primary-expression before '[' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:3328: error: expected primary-expression before ']' token
+o/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:3328: error: expected primary-expression before 'int'
+lSLF07#2@71"Compile /Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp362687114#362687115#0(1561"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:20:20: error: config.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:152:10: warning: multi-character character constant/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:1238:31: warning: multi-character character constant/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:1753:62: warning: multi-character character constant/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:44: error: 'FONTPATH' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp: In constructor 'TopWin::TopWin(const char*, Rect, Uint32, Uint32, void (*)(), void (*)())':/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:729: error: 'FONTPATH' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:731: error: 'FONTPATH' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:733: error: 'FONTPATH_MONO' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp: In function 'int send_ticks(void*)':/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:3328: error: expected primary-expression before '[' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:3328: error: expected primary-expression before ']' token/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp:3328: error: expected primary-expression before 'int'11(4@35"Config.h: No such file or directory362687114#0#114#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#20#0#20#0#28"*: No such file or directory0(22@34"Multi-character character constant362687114#114#116#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#152#0#152#0#0"0(22@34"Multi-character character constant362687114#230#117#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#1238#0#1238#0#0"0(22@34"Multi-character character constant362687114#347#117#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#1753#0#1753#0#0"0(4@41"'FONTPATH' was not declared in this scope362687114#464#117#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#44#0#44#0#34"'*' was not declared in this scope0(4@41"'FONTPATH' was not declared in this scope362687114#738#118#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#729#0#729#0#34"'*' was not declared in this scope0(4@41"'FONTPATH' was not declared in this scope362687114#856#118#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#731#0#731#0#34"'*' was not declared in this scope0(4@46"'FONTPATH_MONO' was not declared in this scope362687114#974#123#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#733#0#733#0#34"'*' was not declared in this scope0(4@44"Expected primary-expression before '[' token362687114#1199#122#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#3328#0#3328#0#19"expected * before *0(4@44"Expected primary-expression before ']' token362687114#1321#122#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#3328#0#3328#0#19"expected * before *0(4@40"Expected primary-expression before 'int'362687114#1443#118#0(6@63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp357734450#3328#0#3328#0#19"expected * before *0(0#0#63"/Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp8602708096#1562"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/sdl-widgets.cpp -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/sdl-widgets.o1#
+
+CCopyStringsFile /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s356587671.623503
+e356587671.932379
+r1
+xCopyStringsFile
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings356587671#356587671#0(0"0(0#0#79"/Users/miguelsilva/Desktop/Proyectos/SDLExample/English.lproj/InfoPlist.strings8625142816#387"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/Resources/English.lproj0#
+
+CCreateUniversalBinary /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/MacOS/SDLExample normal "x86_64 i386"
+s369025183.214766
+e369025183.268738
+r1
+xCreateUniversalBinary
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/MacOS/SDLExample
+xnormal
+xx86_64 i386
+lSLF07#2@95"CreateUniversalBinary build/Debug/SDLExample.app/Contents/MacOS/SDLExample normal "x86_64 i386"369025183#369025183#0(0"0(0#0#59"/Users/miguelsilva/Desktop/Proyectos/SDLExample/x86_64 i3868620162176#442"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    /usr/bin/lipo -create /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLExample /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLExample -output /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/MacOS/SDLExample0#
+
+CLd /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLExample normal i386
+s369025182.619303
+e369025183.214664
+r1
+xLd
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLExample
+xnormal
+xi386
+lSLF07#2@129"Link /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLExample369025182#369025183#0(0"0(0#0#0"8619025216#771"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/g++-4.0 -arch i386 -isysroot /Developer/SDKs/MacOSX10.4u.sdk -L/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -filelist /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLExample.LinkFileList -mmacosx-version-min=10.4 -framework SDL -framework Cocoa -framework SDL_ttf -framework SDL_image -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/i386/SDLExample0#
+
+CLd /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLExample normal x86_64
+s369025182.640656
+e369025183.192302
+r1
+xLd
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLExample
+xnormal
+xx86_64
+lSLF07#2@131"Link /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLExample369025182#369025183#0(0"0(0#0#0"8620693792#775"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLExample.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework Cocoa -framework SDL_ttf -framework SDL_image -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/Objects-normal/x86_64/SDLExample0#
+
+CPBXCp build/Debug/SDLExample.app/Contents/Frameworks/SDL.framework /Library/Frameworks/SDL.framework
+s356587686.095833
+e356587686.217460
+r1
+xPBXCp
+xbuild/Debug/SDLExample.app/Contents/Frameworks/SDL.framework
+x/Library/Frameworks/SDL.framework
+lSLF07#2@38"Copy /Library/Frameworks/SDL.framework356587686#356587686#0(0"0(0#0#33"/Library/Frameworks/SDL.framework8624693408#346"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Library/Frameworks/SDL.framework /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/Info.plist Info.plist
+s356587671.576069
+e356587671.623389
+r1
+xProcessInfoPlistFile
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist356587671#356587671#0(0"0(0#0#58"/Users/miguelsilva/Desktop/Proyectos/SDLExample/Info.plist8617851584#335"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    builtin-infoPlistUtility Info.plist -genpkginfo /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-aofyzpnxdqpxvofevvgrclsevxwh/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal i386 c com.apple.compilers.gcc.4_0
+s352169254.788576
+e352169255.045172
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-aofyzpnxdqpxvofevvgrclsevxwh/SDLExample_Prefix.pch.gch
+xSDLExample_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@32"Precompile SDLExample_Prefix.pch352169254#352169255#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8602231424#1291"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-aofyzpnxdqpxvofevvgrclsevxwh/SDLExample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-arikrpnudwqoelewzmyogkuexbpb/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal i386 c com.apple.compilers.gcc.4_0
+s369023043.753872
+e369023044.021134
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-arikrpnudwqoelewzmyogkuexbpb/SDLExample_Prefix.pch.gch
+xSDLExample_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@32"Precompile SDLExample_Prefix.pch369023043#369023044#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8607661568#1532"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-arikrpnudwqoelewzmyogkuexbpb/SDLExample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bzkbcfcacgyjybckiohlruoqwrnh/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+s369023036.089090
+e369023043.380657
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bzkbcfcacgyjybckiohlruoqwrnh/SDLExample_Prefix.pch.gch
+xSDLExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@32"Precompile SDLExample_Prefix.pch369023036#369023043#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8607170880#1542"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bzkbcfcacgyjybckiohlruoqwrnh/SDLExample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-ceipmiyuayabxueuvjkjoxsonvdh/SDLExample_Prefix.pch.pth SDLExample_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s352681183.496569
+e352681189.085782
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-ceipmiyuayabxueuvjkjoxsonvdh/SDLExample_Prefix.pch.pth
+xSDLExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@32"Precompile SDLExample_Prefix.pch352681183#352681189#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8618176992#1578"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-ceipmiyuayabxueuvjkjoxsonvdh/SDLExample_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-cnavbionjnqopkfkqjrrhdxyxvko/SDLExample_Prefix.pch.pth SDLExample_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.analyzer
+s352681189.085970
+e352681189.132357
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-cnavbionjnqopkfkqjrrhdxyxvko/SDLExample_Prefix.pch.pth
+xSDLExample_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@32"Precompile SDLExample_Prefix.pch352681189#352681189#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8612404448#1568"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-cnavbionjnqopkfkqjrrhdxyxvko/SDLExample_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-ddwyobxiiumisaboirjkpvfvqrhq/SDLExample_Prefix.pch.pth SDLExample_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.analyzer
+s352681182.844843
+e352681183.496449
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-ddwyobxiiumisaboirjkpvfvqrhq/SDLExample_Prefix.pch.pth
+xSDLExample_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@32"Precompile SDLExample_Prefix.pch352681182#352681183#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8614632192#1446"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-ddwyobxiiumisaboirjkpvfvqrhq/SDLExample_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-djdheymnbzyevbfrjdndgyodjlgo/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s369023034.606917
+e369023044.801742
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-djdheymnbzyevbfrjdndgyodjlgo/SDLExample_Prefix.pch.gch
+xSDLExample_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile SDLExample_Prefix.pch369023034#369023044#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch7308339910404490240#1420"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-djdheymnbzyevbfrjdndgyodjlgo/SDLExample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-earvyiltllgfbjdnsafpxdiercon/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+s352169251.644948
+e352169251.842237
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-earvyiltllgfbjdnsafpxdiercon/SDLExample_Prefix.pch.gch
+xSDLExample_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile SDLExample_Prefix.pch352169251#352169251#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8604276416#1262"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-earvyiltllgfbjdnsafpxdiercon/SDLExample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-etqbrgqtvddfipgjfatwrqnyqxnl/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s352169251.644158
+e352169255.676775
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-etqbrgqtvddfipgjfatwrqnyqxnl/SDLExample_Prefix.pch.gch
+xSDLExample_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile SDLExample_Prefix.pch352169251#352169255#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8604428064#1272"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-etqbrgqtvddfipgjfatwrqnyqxnl/SDLExample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fhzcmkmuwmmnoufojbxuwhyoazwu/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+s369023035.531986
+e369023036.088978
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fhzcmkmuwmmnoufojbxuwhyoazwu/SDLExample_Prefix.pch.gch
+xSDLExample_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile SDLExample_Prefix.pch369023035#369023036#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8607556256#1410"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fhzcmkmuwmmnoufojbxuwhyoazwu/SDLExample_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fzbigoabbvuqgkhjfldgvaaaqoaq/SDLExample_Prefix.pch.pth SDLExample_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s352681182.843981
+e352681189.620068
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fzbigoabbvuqgkhjfldgvaaaqoaq/SDLExample_Prefix.pch.pth
+xSDLExample_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@32"Precompile SDLExample_Prefix.pch352681182#352681189#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8614853440#1456"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-fzbigoabbvuqgkhjfldgvaaaqoaq/SDLExample_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-gnmkarxxotwsulfsicbrfoiagrzm/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+s352169251.842354
+e352169254.788369
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-gnmkarxxotwsulfsicbrfoiagrzm/SDLExample_Prefix.pch.gch
+xSDLExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@32"Precompile SDLExample_Prefix.pch352169251#352169254#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8599316288#1301"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-gnmkarxxotwsulfsicbrfoiagrzm/SDLExample_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369023034.645107
+e369023035.531866
+r1
+xProcessPCH++
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch.gch
+xSDLExample_Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile SDLExample_Prefix.pch369023034#369023035#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8594549024#1440"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Library/Frameworks/SDL_ttf.framework/Headers -I/Library/Frameworks/SDL_mixer.framework/Headers -I/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/x86_64 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-bfjncthaaaqfogcwkrgocgaqbjlm/SDLExample_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch.gch SDLExample_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
+s369023043.380869
+e369023043.753754
+r1
+xProcessPCH++
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch.gch
+xSDLExample_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@32"Precompile SDLExample_Prefix.pch369023043#369023043#0(0"0(0#0#69"/Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch8598152320#1562"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/SDLExample.hmap -F/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/include -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_ttf.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_mixer.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources/i386 -I/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/SDLExample.build/Debug/SDLExample.build/DerivedSources -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/SDLExample_Prefix.pch -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SDLExample_Prefix-hfrluossyocasoasdnlbqjzzjdil/SDLExample_Prefix.pch.gch0#
+
+CTouch /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app
+s369025183.268893
+e369025183.271536
+r1
+xTouch
+x/Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app
+lSLF07#2@80"Touch /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app369025183#369025183#0(0"0(0#0#0"8619386240#152"    cd /Users/miguelsilva/Desktop/Proyectos/SDLExample    /usr/bin/touch -c /Users/miguelsilva/Desktop/Proyectos/SDLExample/build/Debug/SDLExample.app0#
+

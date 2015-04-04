@@ -1,0 +1,48 @@
+# Project: SDLEX win
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = main.o MikeLibrary.o MK_Backgrounds.o MK_Graphics.o MK_Sprites.o MK_Video.o SDL_rotozoom.o $(RES)
+LINKOBJ  = main.o MikeLibrary.o MK_Backgrounds.o MK_Graphics.o MK_Sprites.o MK_Video.o SDL_rotozoom.o $(RES)
+LIBS =  -L"C:/Dev-Cpp/lib" -lmingw32 -lSDLmain -lSDL -lSDL_image -lSDL_ttf  
+INCS =  -I"C:/Dev-Cpp/include" 
+CXXINCS =  -I"C:/Dev-Cpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Dev-Cpp/include/c++/3.4.2/backward"  -I"C:/Dev-Cpp/include/c++/3.4.2/mingw32"  -I"C:/Dev-Cpp/include/c++/3.4.2"  -I"C:/Dev-Cpp/include" 
+BIN  = "SDLEX win.exe"
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before "SDLEX win.exe" all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "SDLEX win.exe" $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+MikeLibrary.o: MikeLibrary.cpp
+	$(CPP) -c MikeLibrary.cpp -o MikeLibrary.o $(CXXFLAGS)
+
+MK_Backgrounds.o: MK_Backgrounds.cpp
+	$(CPP) -c MK_Backgrounds.cpp -o MK_Backgrounds.o $(CXXFLAGS)
+
+MK_Graphics.o: MK_Graphics.cpp
+	$(CPP) -c MK_Graphics.cpp -o MK_Graphics.o $(CXXFLAGS)
+
+MK_Sprites.o: MK_Sprites.cpp
+	$(CPP) -c MK_Sprites.cpp -o MK_Sprites.o $(CXXFLAGS)
+
+MK_Video.o: MK_Video.cpp
+	$(CPP) -c MK_Video.cpp -o MK_Video.o $(CXXFLAGS)
+
+SDL_rotozoom.o: SDL_rotozoom.c
+	$(CPP) -c SDL_rotozoom.c -o SDL_rotozoom.o $(CXXFLAGS)

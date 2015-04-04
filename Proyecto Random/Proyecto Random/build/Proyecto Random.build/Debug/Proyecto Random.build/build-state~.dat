@@ -1,0 +1,1152 @@
+TProyecto Random
+v7
+r0
+t369025999.207592
+cCheck dependencies
+cProcessInfoPlistFile "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/Info.plist" Info.plist
+cCopyStringsFile "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dzuxmlfwipdpsdeczqulivsyughk/Proyecto_Random_Prefix.pch.gch Proyecto_Random_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-fpgwpqofmvskotelcpczalvytlnn/Proyecto_Random_Prefix.pch.gch Proyecto_Random_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-cgiyqvqwtcsbsxdggjxzcrqrdhuc/Proyecto_Random_Prefix.pch.gch Proyecto_Random_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-gpeukewclvsetrgnwejfgygphfqp/Proyecto_Random_Prefix.pch.gch Proyecto_Random_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+cProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-hdviuiftohhvfvbumcnfmlpszeiu/Proyecto_Random_Prefix.pch.gch Proyecto_Random_Prefix.pch normal i386 c com.apple.compilers.gcc.4_0
+cProcessPCH++ /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dfrxkscdwqvvelbowqpdhpazysji/Proyecto_Random_Prefix.pch.gch Proyecto_Random_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/SDLMain.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/main-CB136796258F458A.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/main-DD83AD75BD1C4C7B.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MikeLibrary.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Backgrounds.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Graphics.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Sprites.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Video.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/SDL_rotozoom.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/SDLMain.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/main-CB136796258F458A.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c" normal i386 c com.apple.compilers.gcc.4_0
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/main-DD83AD75BD1C4C7B.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MikeLibrary.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Backgrounds.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Graphics.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Sprites.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Video.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/SDL_rotozoom.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c" normal i386 c com.apple.compilers.gcc.4_0
+cPBXCp "build/Debug/Proyecto Random.app/Contents/Frameworks/SDL.framework" /Library/Frameworks/SDL.framework
+
+N/Developer/SDKs/MacOSX10.4u.sdk
+c000000004A1199E200000000000000EE
+t1242667490
+s238
+
+N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/AvailabilityMacros.h
+c000000004A1199E2000000000000506E
+t1242667490
+s20590
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/alloca.h
+c00000000463BAA5A0000000000000588
+t1178315354
+s1416
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/ctype.h
+c00000000463BAA5B0000000000002627
+t1178315355
+s9767
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/iconv.h
+c00000000462863A00000000000001298
+t1177052064
+s4760
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/inttypes.h
+c00000000463BAA5A0000000000002481
+t1178315354
+s9345
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/math.h
+c00000000462E7AF500000000000004B7
+t1177451253
+s1207
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/memory.h
+c00000000463BAA5A0000000000000B38
+t1178315354
+s2872
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/stdio.h
+c00000000463BAA5A0000000000003B7F
+t1178315354
+s15231
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/stdlib.h
+c00000000463BAA5A0000000000002647
+t1178315354
+s9799
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/string.h
+c00000000463BAA5A00000000000014D3
+t1178315354
+s5331
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/strings.h
+c00000000463BAA5A0000000000000D40
+t1178315354
+s3392
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/sys/param.h
+c0000000046F2351400000000000025D9
+t1190278420
+s9689
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/sys/types.h
+c0000000046F235160000000000002641
+t1190278422
+s9793
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/unistd.h
+c00000000463BAA5A0000000000004EED
+t1178315354
+s20205
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stdarg.h
+c000000004CC3D34900000000000010D9
+t1287902025
+s4313
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h
+c000000004CC3D3490000000000003193
+t1287902025
+s12691
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stdint.h
+c000000004CC3D3490000000000001BE4
+t1287902025
+s7140
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Library/Frameworks/SDL.framework
+c000000004F4D741900000000000000EE
+t1330476057
+s238
+
+N/Library/Frameworks/SDL.framework/SDL
+c000000004ADD32BD0000000000156068
+t1256010429
+s1400936
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/English.lproj/InfoPlist.strings
+c00000000504EABFE0000000000000230
+t1347333118
+s560
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp
+c000000004FAAE2930000000000001271
+t1336599187
+s4721
+i"MK_Backgrounds.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h
+c000000004FA3454E0000000000000449
+t1336100174
+s1097
+i<SDL.h>
+i<SDL_image.h>
+i<SDL_TTF.h>
+i"MK_Graphics.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp
+c000000004FC5665E0000000000001986
+t1338336862
+s6534
+i"MK_Graphics.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h
+c000000004FAAE74400000000000003C0
+t1336600388
+s960
+i<SDL.h>
+i<SDL_image.h>
+i<SDL_TTF.h>
+i<stdio.h>
+i<math.h>
+i<iostream>
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp
+c000000004F90D7BF0000000000000EDB
+t1334892479
+s3803
+i"MK_Sprites.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h
+c000000004F90D7BF00000000000002FA
+t1334892479
+s762
+i<SDL.h>
+i<SDL_image.h>
+i<SDL_TTF.h>
+i"MK_Graphics.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp
+c000000004F90E52200000000000007C4
+t1334895906
+s1988
+i"MK_Video.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.h
+c000000004F90E2F20000000000000166
+t1334895346
+s358
+i<SDL.h>
+i<stdio.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp
+c000000004F90E15C00000000000011C5
+t1334894940
+s4549
+i"MikeLibrary.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h
+c000000004F90E2A50000000000000309
+t1334895269
+s777
+i<SDL.h>
+i<SDL_image.h>
+i<SDL_TTF.h>
+i<stdio.h>
+i<math.h>
+i<iostream>
+i<fstream>
+i<string>
+i"SDL_rotozoom.h"
+i"MK_Sprites.h"
+i"MK_Backgrounds.h"
+i"MK_Graphics.h"
+i"MK_Video.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch
+c00000000504EABFE00000000000000AF
+t1347333118
+s175
+i"SDL.h"
+i<Cocoa/Cocoa.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.h
+c00000000504EABFE0000000000000176
+t1347333118
+s374
+i<Cocoa/Cocoa.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m
+c00000000504EABFE0000000000002C00
+t1347333118
+s11264
+i"SDL.h"
+i"SDLMain.h"
+i<sys/param.h>
+i<unistd.h>
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c
+c000000004EDB1A79000000000000A5A1
+t1322982009
+s42401
+i<windows.h>
+i<stdlib.h>
+i<string.h>
+i"SDL_rotozoom.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.h
+c000000004EDB1A790000000000000BA8
+t1322982009
+s2984
+i<math.h>
+i"SDL.h"
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/Frameworks/SDL.framework
+t1347333199
+s204
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/Info.plist
+t1347333191
+s1391
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/MacOS/Proyecto Random
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/PkgInfo
+t1347333191
+s8
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1347333191
+s560
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Backgrounds.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Graphics.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Sprites.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Video.o
+t1347333198
+s6452
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MikeLibrary.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/Proyecto Random
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/Proyecto Random.LinkFileList
+c00000000504EAC4700000000000005A7
+t1347333191
+s1447
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/SDLMain.o
+t1347333198
+s39688
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/SDL_rotozoom.o
+t1347333198
+s41576
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/main-CB136796258F458A.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/main-DD83AD75BD1C4C7B.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Backgrounds.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Graphics.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Sprites.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Video.o
+t1347333197
+s6520
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MikeLibrary.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/Proyecto Random
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/Proyecto Random.LinkFileList
+c00000000504EAC4700000000000005B9
+t1347333191
+s1465
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/SDLMain.o
+t1347333196
+s42444
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/SDL_rotozoom.o
+t1347333198
+s36596
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/main-CB136796258F458A.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/main-DD83AD75BD1C4C7B.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp
+c00000000504EA91D00000000000008AA
+t1347332381
+s2218
+i"MikeLibrary.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL.h
+c000000004ADD32BD0000000000000CA1
+t1256010429
+s3233
+i"SDL_main.h"
+i"SDL_stdinc.h"
+i"SDL_audio.h"
+i"SDL_cdrom.h"
+i"SDL_cpuinfo.h"
+i"SDL_endian.h"
+i"SDL_error.h"
+i"SDL_events.h"
+i"SDL_loadso.h"
+i"SDL_mutex.h"
+i"SDL_rwops.h"
+i"SDL_thread.h"
+i"SDL_timer.h"
+i"SDL_video.h"
+i"SDL_version.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_active.h
+c000000004ADD32BD000000000000078D
+t1256010429
+s1933
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_audio.h
+c000000004ADD32BD0000000000002BCF
+t1256010429
+s11215
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_endian.h"
+i"SDL_mutex.h"
+i"SDL_thread.h"
+i"SDL_rwops.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_cdrom.h
+c000000004ADD32BD00000000000017A0
+t1256010429
+s6048
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_config.h
+c000000004ADD32BD00000000000005C2
+t1256010429
+s1474
+i"SDL_platform.h"
+i"SDL_config_dreamcast.h"
+i"SDL_config_macos.h"
+i"SDL_config_macosx.h"
+i"SDL_config_symbian.h"
+i"SDL_config_win32.h"
+i"SDL_config_os2.h"
+i"SDL_config_minimal.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_config_dreamcast.h
+c000000004ADD32BD0000000000000AF3
+t1256010429
+s2803
+i"SDL_platform.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_config_macos.h
+c000000004ADD32BD0000000000000AF1
+t1256010429
+s2801
+i"SDL_platform.h"
+i<MacTypes.h>
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_config_macosx.h
+c000000004ADD32BD0000000000001061
+t1256010429
+s4193
+i"SDL_platform.h"
+i<AvailabilityMacros.h>
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_config_os2.h
+c000000004ADD32BD0000000000000E33
+t1256010429
+s3635
+i"SDL_platform.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_config_win32.h
+c000000004ADD32BD00000000000011DE
+t1256010429
+s4574
+i"SDL_platform.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_cpuinfo.h
+c000000004ADD32BD00000000000008AD
+t1256010429
+s2221
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_endian.h
+c000000004ADD32BD00000000000016F1
+t1256010429
+s5873
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_error.h
+c000000004ADD32BD0000000000000752
+t1256010429
+s1874
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_events.h
+c000000004ADD32BD00000000000032F1
+t1256010429
+s13041
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_active.h"
+i"SDL_keyboard.h"
+i"SDL_mouse.h"
+i"SDL_joystick.h"
+i"SDL_quit.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_joystick.h
+c000000004ADD32BD000000000000159C
+t1256010429
+s5532
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_keyboard.h
+c000000004ADD32BD0000000000001002
+t1256010429
+s4098
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_keysym.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_keysym.h
+c000000004ADD32BD0000000000001D44
+t1256010429
+s7492
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_loadso.h
+c000000004ADD32BD0000000000000AB3
+t1256010429
+s2739
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_main.h
+c000000004ADD32BD0000000000000B32
+t1256010429
+s2866
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_mouse.h
+c000000004ADD32BD0000000000001292
+t1256010429
+s4754
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_video.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_mutex.h
+c000000004ADD32BD00000000000016E4
+t1256010429
+s5860
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_platform.h
+c000000004ADD32BD0000000000000A94
+t1256010429
+s2708
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_quit.h
+c000000004ADD32BD00000000000007D9
+t1256010429
+s2009
+i"SDL_stdinc.h"
+i"SDL_error.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_rwops.h
+c000000004ADD32BD000000000000135E
+t1256010429
+s4958
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_stdinc.h
+c000000004ADD32BD0000000000004059
+t1256010429
+s16473
+i"SDL_config.h"
+i<sys/types.h>
+i<stdio.h>
+i<stdlib.h>
+i<stddef.h>
+i<stdarg.h>
+i<stdlib.h>
+i<malloc.h>
+i<stddef.h>
+i<stdarg.h>
+i<memory.h>
+i<string.h>
+i<strings.h>
+i<inttypes.h>
+i<stdint.h>
+i<ctype.h>
+i<iconv.h>
+i"begin_code.h"
+i<alloca.h>
+i<malloc.h>
+i<malloc.h>
+i<malloc.h>
+i<stdlib.h>
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_thread.h
+c000000004ADD32BD000000000000118E
+t1256010429
+s4494
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_mutex.h"
+i"begin_code.h"
+i<process.h>
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_timer.h
+c000000004ADD32BD00000000000011AF
+t1256010429
+s4527
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_version.h
+c000000004ADD32BD0000000000000A4D
+t1256010429
+s2637
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/SDL_video.h
+c000000004ADD32BD0000000000009482
+t1256010429
+s38018
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_rwops.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/begin_code.h
+c000000004ADD32BD0000000000001408
+t1256010429
+s5128
+
+N/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers/close_code.h
+c000000004ADD32BD00000000000005CA
+t1256010429
+s1482
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-cgiyqvqwtcsbsxdggjxzcrqrdhuc/Proyecto_Random_Prefix.pch.gch
+t1347333192
+s4729168
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dfrxkscdwqvvelbowqpdhpazysji/Proyecto_Random_Prefix.pch.gch
+t1347333195
+s2600808
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dzuxmlfwipdpsdeczqulivsyughk/Proyecto_Random_Prefix.pch.gch
+t1347333196
+s55052912
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-fpgwpqofmvskotelcpczalvytlnn/Proyecto_Random_Prefix.pch.gch
+t1347333192
+s4319664
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-gpeukewclvsetrgnwejfgygphfqp/Proyecto_Random_Prefix.pch.gch
+t1347333195
+s30511584
+
+N/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-hdviuiftohhvfvbumcnfmlpszeiu/Proyecto_Random_Prefix.pch.gch
+t1347333195
+s2281320
+
+NInfo.plist
+c00000000504EABFE0000000000000412
+t1347333118
+s1042
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies369025991#369025991#0(0"0(0#1#0"8619717344#0"0#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Backgrounds.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+s369025998.331510
+e369025998.632574
+r0
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Backgrounds.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp:10:
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h:11:23: error: SDL_image.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h:12:21: error: SDL_TTF.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp: In constructor 'MK_Background::MK_Background(char*, Uint32, Uint8, int, int)':
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp:21: error: 'IMG_Load' was not declared in this scope
+lSLF07#2@95"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp369025998#369025998#0(699"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp:10:/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h:11:23: error: SDL_image.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h:12:21: error: SDL_TTF.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp: In constructor 'MK_Background::MK_Background(char*, Uint32, Uint8, int, int)':/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp:21: error: 'IMG_Load' was not declared in this scope3(4@38"SDL_image.h: No such file or directory369025998#114#139#2(7@109"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp369025998#18446744073709551615#0#0(6@87"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp358291987#10#0#10#0#0"0(13@127"SDL_image.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h369025998#18446744073709551615#0#0(6@85"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h357792974#11#0#11#0#0"0(6@85"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h357792974#11#0#11#0#28"*: No such file or directory0(4@36"SDL_TTF.h: No such file or directory369025998#253#137#2(7@109"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp369025998#18446744073709551615#0#0(6@87"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp358291987#10#0#10#0#0"0(13@125"SDL_TTF.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h369025998#18446744073709551615#0#0(6@85"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h357792974#12#0#12#0#0"0(6@85"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h357792974#12#0#12#0#28"*: No such file or directory0(4@41"'IMG_Load' was not declared in this scope369025998#558#141#0(6@87"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp358291987#21#0#21#0#34"'*' was not declared in this scope0(0#0#87"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp8594706464#1686"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dfrxkscdwqvvelbowqpdhpazysji/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Backgrounds.o"1#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Graphics.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+s369025998.369895
+e369025998.685865
+r0
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Graphics.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp:10:
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h:11:23: error: SDL_image.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h:12:21: error: SDL_TTF.h: No such file or directory
+lSLF07#2@92"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp369025998#369025998#0(381"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp:10:/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h:11:23: error: SDL_image.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h:12:21: error: SDL_TTF.h: No such file or directory2(4@38"SDL_image.h: No such file or directory369025998#111#136#2(7@106"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp369025998#18446744073709551615#0#0(6@84"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp360029662#10#0#10#0#0"0(13@124"SDL_image.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h369025998#18446744073709551615#0#0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h358293188#11#0#11#0#0"0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h358293188#11#0#11#0#28"*: No such file or directory0(4@36"SDL_TTF.h: No such file or directory369025998#247#134#2(7@106"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp369025998#18446744073709551615#0#0(6@84"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp360029662#10#0#10#0#0"0(13@122"SDL_TTF.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h369025998#18446744073709551615#0#0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h358293188#12#0#12#0#0"0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h358293188#12#0#12#0#28"*: No such file or directory0(0#0#84"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp8595813024#1680"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dfrxkscdwqvvelbowqpdhpazysji/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Graphics.o"1#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Sprites.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+s369025998.632963
+e369025998.973480
+r0
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Sprites.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp:9:
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h:11:23: error: SDL_image.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h:12:21: error: SDL_TTF.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp: In constructor 'MK_Sprite::MK_Sprite(char*, Uint32, Uint8, Uint8, Uint8, Uint8, Uint8)':
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp:19: error: 'IMG_Load' was not declared in this scope
+lSLF07#2@91"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp369025998#369025998#0(688"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp:9:/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h:11:23: error: SDL_image.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h:12:21: error: SDL_TTF.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp: In constructor 'MK_Sprite::MK_Sprite(char*, Uint32, Uint8, Uint8, Uint8, Uint8, Uint8)':/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp:19: error: 'IMG_Load' was not declared in this scope3(4@38"SDL_image.h: No such file or directory369025998#109#135#2(7@105"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp369025998#18446744073709551615#0#0(6@83"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp356585279#9#0#9#0#0"0(13@123"SDL_image.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h369025998#18446744073709551615#0#0(6@81"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h356585279#11#0#11#0#0"0(6@81"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h356585279#11#0#11#0#28"*: No such file or directory0(4@36"SDL_TTF.h: No such file or directory369025998#244#133#2(7@105"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp369025998#18446744073709551615#0#0(6@83"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp356585279#9#0#9#0#0"0(13@121"SDL_TTF.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h369025998#18446744073709551615#0#0(6@81"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h356585279#12#0#12#0#0"0(6@81"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h356585279#12#0#12#0#28"*: No such file or directory0(4@41"'IMG_Load' was not declared in this scope369025998#551#137#0(6@83"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp356585279#19#0#19#0#34"'*' was not declared in this scope0(0#0#83"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp8618051456#1678"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dfrxkscdwqvvelbowqpdhpazysji/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Sprites.o"1#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Video.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+s369025998.685967
+e369025998.718952
+r1
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Video.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@89"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp369025998#369025998#0(0"0(0#0#81"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp8617578016#1674"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dfrxkscdwqvvelbowqpdhpazysji/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MK_Video.o"0#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MikeLibrary.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+s369025998.059642
+e369025998.369797
+r0
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MikeLibrary.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp:10:
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:11:23: error: SDL_image.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:12:21: error: SDL_TTF.h: No such file or directory
+lSLF07#2@92"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp369025998#369025998#0(381"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp:10:/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:11:23: error: SDL_image.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:12:21: error: SDL_TTF.h: No such file or directory2(4@38"SDL_image.h: No such file or directory369025998#111#136#2(7@106"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp369025998#18446744073709551615#0#0(6@84"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp356587740#10#0#10#0#0"0(13@124"SDL_image.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h369025998#18446744073709551615#0#0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#11#0#11#0#0"0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#11#0#11#0#28"*: No such file or directory0(4@36"SDL_TTF.h: No such file or directory369025998#247#134#2(7@106"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp369025998#18446744073709551615#0#0(6@84"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp356587740#10#0#10#0#0"0(13@122"SDL_TTF.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h369025998#18446744073709551615#0#0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#12#0#12#0#0"0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#12#0#12#0#28"*: No such file or directory0(0#0#84"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp8618033856#1680"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dfrxkscdwqvvelbowqpdhpazysji/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/MikeLibrary.o"1#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/SDLMain.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+s369025997.900082
+e369025998.059540
+r1
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/SDLMain.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@86"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m369025997#369025998#0(0"0(0#0#78"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m8617631200#1650"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-gpeukewclvsetrgnwejfgygphfqp/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/SDLMain.o"0#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/SDL_rotozoom.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c" normal i386 c com.apple.compilers.gcc.4_0
+s369025998.719060
+e369025998.889140
+r1
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/SDL_rotozoom.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@91"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c369025998#369025998#0(0"0(0#0#83"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c8617300576#1650"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-hdviuiftohhvfvbumcnfmlpszeiu/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/SDL_rotozoom.o"0#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/main-CB136796258F458A.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c" normal i386 c com.apple.compilers.gcc.4_0
+s369025998.031552
+e369025998.037470
+r0
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/main-CB136796258F458A.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+oi686-apple-darwin10-gcc-4.0.1: /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c: No such file or directory
+oi686-apple-darwin10-gcc-4.0.1: warning: '-x c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.0.1: no input files
+lSLF07#2@83"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c369025998#369025998#0(322"i686-apple-darwin10-gcc-4.0.1: /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c: No such file or directoryi686-apple-darwin10-gcc-4.0.1: warning: '-x c' after last input file has no effecti686-apple-darwin10-gcc-4.0.1: no input filesCommand /Developer/usr/bin/gcc-4.0 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.0 failed with exit code 1369025998#18446744073709551615#0#0(1@0"0(0#0#75"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c8618893056#1651"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-hdviuiftohhvfvbumcnfmlpszeiu/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/main-CB136796258F458A.o"1#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/main-DD83AD75BD1C4C7B.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+s369025998.037562
+e369025998.331408
+r0
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/main-DD83AD75BD1C4C7B.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:1:
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:11:23: error: SDL_image.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:12:21: error: SDL_TTF.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp: In function 'int SDL_main(int, char**)':
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:16: error: 'TTF_Init' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:17: error: 'TTF_Font' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:17: error: 'font' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:21: error: 'TTF_OpenFont' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:26: error: 'TTF_RenderText_Solid' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:35: error: 'IMG_Load' was not declared in this scope
+lSLF07#2@85"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025998#369025998#0(1291"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:1:/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:11:23: error: SDL_image.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:12:21: error: SDL_TTF.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp: In function 'int SDL_main(int, char**)':/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:16: error: 'TTF_Init' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:17: error: 'TTF_Font' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:17: error: 'font' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:21: error: 'TTF_OpenFont' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:26: error: 'TTF_RenderText_Solid' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:35: error: 'IMG_Load' was not declared in this scope8(4@38"SDL_image.h: No such file or directory369025998#103#136#2(7@99"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025998#18446744073709551615#0#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#1#0#1#0#0"0(13@124"SDL_image.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h369025998#18446744073709551615#0#0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#11#0#11#0#0"0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#11#0#11#0#28"*: No such file or directory0(4@36"SDL_TTF.h: No such file or directory369025998#239#134#2(7@99"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025998#18446744073709551615#0#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#1#0#1#0#0"0(13@122"SDL_TTF.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h369025998#18446744073709551615#0#0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#12#0#12#0#0"0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#12#0#12#0#28"*: No such file or directory0(4@41"'TTF_Init' was not declared in this scope369025998#493#131#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#16#0#16#0#34"'*' was not declared in this scope0(4@41"'TTF_Font' was not declared in this scope369025998#624#131#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#17#0#17#0#34"'*' was not declared in this scope0(4@37"'font' was not declared in this scope369025998#755#127#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#17#0#17#0#34"'*' was not declared in this scope0(4@45"'TTF_OpenFont' was not declared in this scope369025998#882#135#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#21#0#21#0#34"'*' was not declared in this scope0(4@53"'TTF_RenderText_Solid' was not declared in this scope369025998#1017#143#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#26#0#26#0#34"'*' was not declared in this scope0(4@41"'IMG_Load' was not declared in this scope369025998#1160#131#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#35#0#35#0#34"'*' was not declared in this scope0(0#0#77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp8618378624#1683"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dfrxkscdwqvvelbowqpdhpazysji/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/main-DD83AD75BD1C4C7B.o"1#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/main.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c" normal i386 c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Backgrounds.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369025997.135849
+e369025997.523722
+r0
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Backgrounds.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp:10:
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h:11:23: error: SDL_image.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h:12:21: error: SDL_TTF.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp: In constructor 'MK_Background::MK_Background(char*, Uint32, Uint8, int, int)':
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp:21: error: 'IMG_Load' was not declared in this scope
+lSLF07#2@95"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp369025997#369025997#0(699"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp:10:/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h:11:23: error: SDL_image.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h:12:21: error: SDL_TTF.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp: In constructor 'MK_Background::MK_Background(char*, Uint32, Uint8, int, int)':/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp:21: error: 'IMG_Load' was not declared in this scope3(4@38"SDL_image.h: No such file or directory369025997#114#139#2(7@109"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp369025997#18446744073709551615#0#0(6@87"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp358291987#10#0#10#0#0"0(13@127"SDL_image.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h369025997#18446744073709551615#0#0(6@85"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h357792974#11#0#11#0#0"0(6@85"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h357792974#11#0#11#0#28"*: No such file or directory0(4@36"SDL_TTF.h: No such file or directory369025997#253#137#2(7@109"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp369025997#18446744073709551615#0#0(6@87"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp358291987#10#0#10#0#0"0(13@125"SDL_TTF.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h369025997#18446744073709551615#0#0(6@85"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h357792974#12#0#12#0#0"0(6@85"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.h357792974#12#0#12#0#28"*: No such file or directory0(4@41"'IMG_Load' was not declared in this scope369025997#558#141#0(6@87"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp358291987#21#0#21#0#34"'*' was not declared in this scope0(0#0#87"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp8617841632#1659"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-cgiyqvqwtcsbsxdggjxzcrqrdhuc/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Backgrounds.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Backgrounds.o"1#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Graphics.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369025997.334183
+e369025997.773083
+r0
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Graphics.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp:10:
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h:11:23: error: SDL_image.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h:12:21: error: SDL_TTF.h: No such file or directory
+lSLF07#2@92"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp369025997#369025997#0(381"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp:10:/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h:11:23: error: SDL_image.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h:12:21: error: SDL_TTF.h: No such file or directory2(4@38"SDL_image.h: No such file or directory369025997#111#136#2(7@106"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp369025997#18446744073709551615#0#0(6@84"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp360029662#10#0#10#0#0"0(13@124"SDL_image.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h369025997#18446744073709551615#0#0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h358293188#11#0#11#0#0"0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h358293188#11#0#11#0#28"*: No such file or directory0(4@36"SDL_TTF.h: No such file or directory369025997#247#134#2(7@106"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp369025997#18446744073709551615#0#0(6@84"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp360029662#10#0#10#0#0"0(13@122"SDL_TTF.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h369025997#18446744073709551615#0#0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h358293188#12#0#12#0#0"0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.h358293188#12#0#12#0#28"*: No such file or directory0(0#0#84"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp8619685600#1653"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-cgiyqvqwtcsbsxdggjxzcrqrdhuc/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Graphics.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Graphics.o"1#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Sprites.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369025997.523827
+e369025997.899932
+r0
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Sprites.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp:9:
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h:11:23: error: SDL_image.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h:12:21: error: SDL_TTF.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp: In constructor 'MK_Sprite::MK_Sprite(char*, Uint32, Uint8, Uint8, Uint8, Uint8, Uint8)':
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp:19: error: 'IMG_Load' was not declared in this scope
+lSLF07#2@91"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp369025997#369025997#0(688"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp:9:/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h:11:23: error: SDL_image.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h:12:21: error: SDL_TTF.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp: In constructor 'MK_Sprite::MK_Sprite(char*, Uint32, Uint8, Uint8, Uint8, Uint8, Uint8)':/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp:19: error: 'IMG_Load' was not declared in this scope3(4@38"SDL_image.h: No such file or directory369025997#109#135#2(7@105"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp369025997#18446744073709551615#0#0(6@83"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp356585279#9#0#9#0#0"0(13@123"SDL_image.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h369025997#18446744073709551615#0#0(6@81"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h356585279#11#0#11#0#0"0(6@81"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h356585279#11#0#11#0#28"*: No such file or directory0(4@36"SDL_TTF.h: No such file or directory369025997#244#133#2(7@105"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp369025997#18446744073709551615#0#0(6@83"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp356585279#9#0#9#0#0"0(13@121"SDL_TTF.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h369025997#18446744073709551615#0#0(6@81"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h356585279#12#0#12#0#0"0(6@81"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.h356585279#12#0#12#0#28"*: No such file or directory0(4@41"'IMG_Load' was not declared in this scope369025997#551#137#0(6@83"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp356585279#19#0#19#0#34"'*' was not declared in this scope0(0#0#83"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp8617392576#1651"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-cgiyqvqwtcsbsxdggjxzcrqrdhuc/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Sprites.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Sprites.o"1#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Video.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369025997.773187
+e369025997.819806
+r1
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Video.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp369025997#369025997#0(0"0(0#0#81"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp8620063104#1647"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-cgiyqvqwtcsbsxdggjxzcrqrdhuc/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MK_Video.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MK_Video.o"0#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MikeLibrary.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369025996.883675
+e369025997.334074
+r0
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MikeLibrary.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp:10:
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:11:23: error: SDL_image.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:12:21: error: SDL_TTF.h: No such file or directory
+lSLF07#2@92"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp369025996#369025997#0(381"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp:10:/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:11:23: error: SDL_image.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:12:21: error: SDL_TTF.h: No such file or directory2(4@38"SDL_image.h: No such file or directory369025996#111#136#2(7@106"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp369025996#18446744073709551615#0#0(6@84"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp356587740#10#0#10#0#0"0(13@124"SDL_image.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h369025996#18446744073709551615#0#0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#11#0#11#0#0"0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#11#0#11#0#28"*: No such file or directory0(4@36"SDL_TTF.h: No such file or directory369025996#247#134#2(7@106"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp369025996#18446744073709551615#0#0(6@84"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp356587740#10#0#10#0#0"0(13@122"SDL_TTF.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h369025996#18446744073709551615#0#0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#12#0#12#0#0"0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#12#0#12#0#28"*: No such file or directory0(0#0#84"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp8618511168#1653"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-cgiyqvqwtcsbsxdggjxzcrqrdhuc/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/MikeLibrary.o"1#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/SDLMain.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s369025996.584669
+e369025996.883464
+r1
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/SDLMain.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m369025996#369025996#0(0"0(0#0#78"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m8618290336#1623"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dzuxmlfwipdpsdeczqulivsyughk/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDLMain.m" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/SDLMain.o"0#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/SDL_rotozoom.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s369025997.819919
+e369025998.031438
+r1
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/SDL_rotozoom.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c369025997#369025998#0(0"0(0#0#83"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c8618170048#1623"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-fpgwpqofmvskotelcpczalvytlnn/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/SDL_rotozoom.c" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/SDL_rotozoom.o"0#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/main-CB136796258F458A.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s369025996.585738
+e369025996.694561
+r0
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/main-CB136796258F458A.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+oi686-apple-darwin10-gcc-4.2.1: /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c: No such file or directory
+oi686-apple-darwin10-gcc-4.2.1: warning: '-x c' after last input file has no effect
+oi686-apple-darwin10-gcc-4.2.1: no input files
+lSLF07#2@83"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c369025996#369025996#0(322"i686-apple-darwin10-gcc-4.2.1: /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c: No such file or directoryi686-apple-darwin10-gcc-4.2.1: warning: '-x c' after last input file has no effecti686-apple-darwin10-gcc-4.2.1: no input filesCommand /Developer/usr/bin/gcc-4.2 failed with exit code 11(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1369025996#18446744073709551615#0#0(1@0"0(0#0#75"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c8613872608#1624"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-fpgwpqofmvskotelcpczalvytlnn/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/main-CB136796258F458A.o"1#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/main-DD83AD75BD1C4C7B.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369025996.694662
+e369025997.135751
+r0
+xCompileC
+xbuild/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/main-DD83AD75BD1C4C7B.o
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:1:
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:11:23: error: SDL_image.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:12:21: error: SDL_TTF.h: No such file or directory
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp: In function 'int SDL_main(int, char**)':
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:16: error: 'TTF_Init' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:17: error: 'TTF_Font' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:17: error: 'font' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:21: error: 'TTF_OpenFont' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:26: error: 'TTF_RenderText_Solid' was not declared in this scope
+o/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:35: error: 'IMG_Load' was not declared in this scope
+lSLF07#2@85"Compile /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025996#369025997#0(1291"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:1:/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:11:23: error: SDL_image.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h:12:21: error: SDL_TTF.h: No such file or directory/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp: In function 'int SDL_main(int, char**)':/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:16: error: 'TTF_Init' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:17: error: 'TTF_Font' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:17: error: 'font' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:21: error: 'TTF_OpenFont' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:26: error: 'TTF_RenderText_Solid' was not declared in this scope/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp:35: error: 'IMG_Load' was not declared in this scope8(4@38"SDL_image.h: No such file or directory369025996#103#136#2(7@99"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025996#18446744073709551615#0#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#1#0#1#0#0"0(13@124"SDL_image.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h369025996#18446744073709551615#0#0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#11#0#11#0#0"0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#11#0#11#0#28"*: No such file or directory0(4@36"SDL_TTF.h: No such file or directory369025996#239#134#2(7@99"In file included from /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025996#18446744073709551615#0#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#1#0#1#0#0"0(13@122"SDL_TTF.h: No such file or directory in /Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h369025996#18446744073709551615#0#0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#12#0#12#0#0"0(6@82"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/MikeLibrary.h356588069#12#0#12#0#28"*: No such file or directory0(4@41"'TTF_Init' was not declared in this scope369025997#493#131#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#16#0#16#0#34"'*' was not declared in this scope0(4@41"'TTF_Font' was not declared in this scope369025997#624#131#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#17#0#17#0#34"'*' was not declared in this scope0(4@37"'font' was not declared in this scope369025997#755#127#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#17#0#17#0#34"'*' was not declared in this scope0(4@45"'TTF_OpenFont' was not declared in this scope369025997#882#135#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#21#0#21#0#34"'*' was not declared in this scope0(4@53"'TTF_RenderText_Solid' was not declared in this scope369025997#1017#143#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#26#0#26#0#34"'*' was not declared in this scope0(4@41"'IMG_Load' was not declared in this scope369025997#1160#131#0(6@77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp369025181#35#0#35#0#34"'*' was not declared in this scope0(0#0#77"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp8619462272#1656"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -include /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-cgiyqvqwtcsbsxdggjxzcrqrdhuc/Proyecto_Random_Prefix.pch -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.cpp" -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/main-DD83AD75BD1C4C7B.o"1#
+
+CCompileC "build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/main.o" "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCopyStringsFile "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s369025991.508098
+e369025991.820029
+r1
+xCopyStringsFile
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings369025991#369025991#0(0"0(0#0#100"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/English.lproj/InfoPlist.strings8616505472#438"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/Resources/English.lproj"0#
+
+CCreateUniversalBinary "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/MacOS/Proyecto Random" normal "x86_64 i386"
+r0
+
+CLd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/i386/Proyecto Random" normal i386
+r0
+
+CLd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Objects-normal/x86_64/Proyecto Random" normal x86_64
+r0
+
+CPBXCp "build/Debug/Proyecto Random.app/Contents/Frameworks/SDL.framework" /Library/Frameworks/SDL.framework
+s369025998.973690
+e369025999.207509
+r1
+xPBXCp
+xbuild/Debug/Proyecto Random.app/Contents/Frameworks/SDL.framework
+x/Library/Frameworks/SDL.framework
+lSLF07#2@38"Copy /Library/Frameworks/SDL.framework369025998#369025999#0(0"0(0#0#33"/Library/Frameworks/SDL.framework8618403616#397"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Library/Frameworks/SDL.framework "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/Frameworks"0#
+
+CProcessInfoPlistFile "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/Info.plist" Info.plist
+s369025991.493873
+e369025991.508011
+r1
+xProcessInfoPlistFile
+x/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist369025991#369025991#0(0"0(0#0#79"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Info.plist8617086944#414"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dzuxmlfwipdpsdeczqulivsyughk/Proyecto_Random_Prefix.pch.gch Proyecto_Random_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s369025991.820170
+e369025996.584222
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dzuxmlfwipdpsdeczqulivsyughk/Proyecto_Random_Prefix.pch.gch
+xProyecto_Random_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile Proyecto_Random_Prefix.pch369025991#369025996#0(0"0(0#0#95"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch8617774976#1483"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch" -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dzuxmlfwipdpsdeczqulivsyughk/Proyecto_Random_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-fpgwpqofmvskotelcpczalvytlnn/Proyecto_Random_Prefix.pch.gch Proyecto_Random_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+s369025991.821024
+e369025992.194143
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-fpgwpqofmvskotelcpczalvytlnn/Proyecto_Random_Prefix.pch.gch
+xProyecto_Random_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile Proyecto_Random_Prefix.pch369025991#369025992#0(0"0(0#0#95"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch8618213856#1473"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch" -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-fpgwpqofmvskotelcpczalvytlnn/Proyecto_Random_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-gpeukewclvsetrgnwejfgygphfqp/Proyecto_Random_Prefix.pch.gch Proyecto_Random_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+s369025992.472386
+e369025995.369638
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-gpeukewclvsetrgnwejfgygphfqp/Proyecto_Random_Prefix.pch.gch
+xProyecto_Random_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@37"Precompile Proyecto_Random_Prefix.pch369025992#369025995#0(0"0(0#0#95"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch8620889184#1512"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch" -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-gpeukewclvsetrgnwejfgygphfqp/Proyecto_Random_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-hdviuiftohhvfvbumcnfmlpszeiu/Proyecto_Random_Prefix.pch.gch Proyecto_Random_Prefix.pch normal i386 c com.apple.compilers.gcc.4_0
+s369025995.369817
+e369025995.679691
+r1
+xProcessPCH
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-hdviuiftohhvfvbumcnfmlpszeiu/Proyecto_Random_Prefix.pch.gch
+xProyecto_Random_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@37"Precompile Proyecto_Random_Prefix.pch369025995#369025995#0(0"0(0#0#95"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch8619980768#1502"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch" -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-hdviuiftohhvfvbumcnfmlpszeiu/Proyecto_Random_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-cgiyqvqwtcsbsxdggjxzcrqrdhuc/Proyecto_Random_Prefix.pch.gch Proyecto_Random_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+s369025992.194261
+e369025992.472242
+r1
+xProcessPCH++
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-cgiyqvqwtcsbsxdggjxzcrqrdhuc/Proyecto_Random_Prefix.pch.gch
+xProyecto_Random_Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile Proyecto_Random_Prefix.pch369025992#369025992#0(0"0(0#0#95"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch8621100576#1503"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/x86_64" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch" -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-cgiyqvqwtcsbsxdggjxzcrqrdhuc/Proyecto_Random_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dfrxkscdwqvvelbowqpdhpazysji/Proyecto_Random_Prefix.pch.gch Proyecto_Random_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
+s369025995.679800
+e369025995.918828
+r1
+xProcessPCH++
+x/var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dfrxkscdwqvvelbowqpdhpazysji/Proyecto_Random_Prefix.pch.gch
+xProyecto_Random_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@37"Precompile Proyecto_Random_Prefix.pch369025995#369025995#0(0"0(0#0#95"/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch8621112256#1532"    cd "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/Proyecto Random.hmap" "-F/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug" -F/Users/miguelsilva/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/include" -I/Users/miguelsilva/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources/i386" "-I/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Proyecto Random.build/Debug/Proyecto Random.build/DerivedSources" -c "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/Proyecto_Random_Prefix.pch" -o /var/folders/6d/6dLHbI0kHd8XWb+DA+jdzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Proyecto_Random_Prefix-dfrxkscdwqvvelbowqpdhpazysji/Proyecto_Random_Prefix.pch.gch0#
+
+CTouch "/Users/miguelsilva/Desktop/Proyectos/Proyecto Random/Proyecto Random/build/Debug/Proyecto Random.app"
+r0
+
